@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mfcgames
 - 👀 I’m interested in C#,ASP.NET MVC,UNITY Game Development
-- 🌱 I’m learning ASP.NET MVC
+- 🌱 I’m learning ASP.NET MVC and Angular Frameworks
 - 📫 How to reach me ig:m.fcaliskan
 
 <!---
